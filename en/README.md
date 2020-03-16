@@ -4,7 +4,7 @@ This repository was planned for those who don't know how to code, but work or wa
 
 > If you have no background in data science, check out [this one](https://github.com/leobezerra/pandas-zero) 😎
 
-> Now, if you already code and want a repo with a faster pace, check out [this one](https://github.com/ivanovitchm/datascience2machinelearning) 😎
+> Now, if you already code and want a repo with a faster pace, check out [this one](https://github.com/ivanovitchm/IMD1101_Machine_Learning) 😎
 
 ### Disclaimer
 
