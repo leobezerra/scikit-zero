@@ -32,6 +32,11 @@ In this repo, we will use notebooks with the Python ecossystem and its main libr
 
 ## Meeting scikit-learn
 
+#### [[leobezerra]](https://github.com/leobezerra) First steps
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/scikit-zero/blob/master/en/notebooks/First_steps.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/scikit-zero/master/)
+
+
 <!--
 
 #### [[jonathanjalles]](https://github.com/jonathanjalles)[[leobezerra]](https://github.com/leobezerra) First steps
