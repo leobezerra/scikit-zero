@@ -46,7 +46,7 @@ In this repo, we will use notebooks with the Python ecossystem and its main libr
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/scikit-zero/master/)
 [![Watch on YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red.svg)](https://youtu.be/-XKCV3V26i4)
 
-#### [[kallil12]](https://github.com/kallil12)[[leobezerra]](https://github.com/leobezerra) Data preparation: transformations
+#### [[kallil12]](https://github.com/kallil12)[[leobezerra]](https://github.com/leobezerra) Feature engineering: selection
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leobezerra/scikit-zero/blob/master/en/notebooks/Feature_selection.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leobezerra/scikit-zero/master/)
 
